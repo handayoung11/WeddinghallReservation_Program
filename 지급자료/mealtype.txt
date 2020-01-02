@@ -1,0 +1,4 @@
+﻿mealtype_index	mealtype_name	mealtype_price
+1	양식	20000
+2	뷔페	15000
+3	한식	18000
